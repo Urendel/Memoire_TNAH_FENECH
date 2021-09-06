@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog PUBLIC "-//OASIS//DTD XML Catalogs V1.1//EN" "http://www.oasis-open.org/committees/entity/release/1.1/catalog.dtd">
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+	<!-- The path in @uri is relative to this file (catalog.xml). -->
+	<system systemId="main.xsd" uri="./main.xsd"/>
+	<system systemId="descriptive.xsd" uri="./descriptive.xsd"/>
+	<system systemId="management.xsd" uri="./management.xsd"/>
+	<system systemId="ontology.xsd" uri="./ontology.xsd"/>
+	<system systemId="technical.xsd" uri="./technical.xsd"/>
+	<system systemId="types.xsd" uri="./types.xsd"/>
+</catalog>

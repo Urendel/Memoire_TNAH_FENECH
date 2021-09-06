@@ -1,0 +1,2 @@
+lxml~=4.6.3
+xmlschema~=1.6.4

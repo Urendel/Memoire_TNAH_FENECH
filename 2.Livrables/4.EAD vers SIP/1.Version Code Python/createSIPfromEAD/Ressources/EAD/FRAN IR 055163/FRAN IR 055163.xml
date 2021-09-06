@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/css' href='ead.css'?><!DOCTYPE ead SYSTEM "ead_sia.dtd">
+<ead>
+ <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="acheve" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+  <eadid>FRAN_IR_055163</eadid>
+ <filedesc>
+  <titlestmt>
+   <titleproper>Ministère de l'Agriculture. Mission d'inspection générale et d'audit : dossiers d'audits menés par Amand Thébault, Inspecteur général de la santé publique vétérinaire (2000-2010)</titleproper>
+    <subtitle>Répertoire numérique du versement d'archives électroniques  20110288 (20110288/1-20110288/13)</subtitle>
+    <author>Anaël ROINARD, révision par Marie-Noëlle LEBLANC, Archives Nationales</author>
+   </titlestmt>
+   <editionstmt>
+    <edition>Première édition électronique</edition>
+   </editionstmt>
+   <publicationstmt>
+   <publisher>Archives nationales</publisher>
+    <address>
+     <addressline>Pierrefitte-sur-Seine</addressline>
+    </address>
+    <date calendar="gregorian" era="ce" normal="2011-01-01/2011-12-31">2011</date>
+   </publicationstmt>
+   <notestmt>
+    <note>
+     <p>Mention de note éventuelle</p>
+    </note>
+   </notestmt>
+  </filedesc>
+  <profiledesc>
+  <creation>Cet instrument de recherche a été rédigé avec un logiciel de traitement de texte.</creation>
+   <langusage>
+    <language langcode="fre">Français</language>
+   </langusage>
+   <descrules>Conforme à la norme ISAD(G) et aux règles d'application de la DTD EAD (version 2002) aux Archives nationales, il a reçu le visa du Service interministériel des Archives de France</descrules>
+  </profiledesc>
+ </eadheader>
+ <frontmatter>
+  <div>
+   <p/>
+  </div>
+ </frontmatter>
+ <archdesc level="recordgrp">
+ <did>
+  <unitid countrycode="fr" repositorycode="FRDAFAN" type="identifiant">20110288/1-20110288/13</unitid>
+   <unittitle>Mission d'inspection générale et d'audit : dossiers d'audits menés par Amand Thébault, inspecteur général de la santé publique vétérinaire.</unittitle>
+   <unitdate calendar="gregorian" era="ce" normal="2000-01-01/2010-12-31">2000-2010</unitdate>
+   <origination>
+    <corpname authfilenumber="FRAN_NP_007911">France. Conseil général de l'agriculture, de l'alimentation et des espaces ruraux (2006-....)</corpname>
+   </origination>
+   <physdesc>
+   <extent>73,9 Mo (186 fichiers, 13 articles)</extent>
+    <physfacet source="FRAN_RI_002" type="d3nd9y3c6o-iu0j3xsmoisx">archives électroniques</physfacet>
+   </physdesc>
+   <langmaterial>
+    <language langcode="fre">Français</language>
+   </langmaterial>
+   <repository>Archives nationales</repository>
+   <physloc>Fontainebleau</physloc>
+  </did>
+  <accessrestrict>
+   <p>Selon la réglementation en vigueur (Code du Patrimoine)</p>
+  </accessrestrict>
+  <userestrict>
+   <p>Reproduction selon le règlement de la salle de lecture</p>
+  </userestrict>
+  <acqinfo>
+   <p>Versement en 2011</p>
+  </acqinfo>
+  <bioghist>
+   <p>
+    <emph render="underline">Le Conseil général de l'agriculture, de l'alimentation et des espaces ruraux (CGAAER)</emph>
+   </p>
+   <p>Créé par le décret n° 2006-487 du 26 avril 2006, le Conseil général de l'agriculture, de l'alimentation et des espaces ruraux (CGAAER) est issu de la fusion de l'Inspection générale de l'agriculture (IGA) avec le Conseil général vétérinaire (CGV) et le Conseil général du génie rural, des eaux et des forêts (CGGREF).</p>
+   <p>Le CGAAER participe, sous l'autorité du ministre chargé de l'agriculture qui le préside, à la conception, la définition et l'évaluation des politiques publiques dont le ministère de l'agriculture a la charge ou auxquelles il contribue. A ce titre, il assiste le ministre dans la conception d'ensemble des politiques et stratégies, lui fournit et interprète les éléments de prospective et de réflexion nécessaire. En outre, le CGAAER procède à l'audit, à l'inspection, à l'évaluation et au contrôle des politiques conduites par les services centraux et déconcentrés placés sous l'autorité du ministre ainsi que des établissements publics dont il a la tutelle ou qui bénéficient de ses financements. Par ailleurs, il assiste le ministre dans la gestion des crises et l'évaluation de leur traitement. Le CGAAER peut également réaliser, à la demande du ministre de l'agriculture ou à celles d'autres ministres dans le cadre de travaux interministériels, des missions de conseil, d'expertise, de médiation, d'appui et de coopération internationale (art. 1 du décret n° 2010-141 du 10 février 2010 relatif au Conseil général de l'alimentation, de l'agriculture et des espaces ruraux).</p>
+   <p>L'assemblée générale des membres du CGAAER approuve le projet stratégique, les programmes annuels de travail et les rapports d'activité du Conseil général avant qu'ils soient soumis au ministre pour validation. Outre une section chargée de l'audit, de l'inspection et du contrôle, le CGAAER comprend différentes sections thématiques, dont le nombre peut varier jusqu'à six, et un secrétariat général. L'activité du CGAAER est gérée par un bureau composé de son vice-président, son secrétaire général ainsi que les présidents des sections qui le composent.</p>
+   <p>
+    <emph render="underline">La mission d'inspection générale et d'audit (MIGA)</emph>
+   </p>
+   <p>La MIGA est l'une des sept sections qui composent le CGAAER. Elle est chargée de piloter l'ensemble des missions d'audit, d'inspection et de contrôle relevant de l'audit de la mise en œuvre des politiques communautaires, de l'inspection des services centraux et déconcentrés ainsi que des établissements publics, de la réalisation des programmes budgétaires, du contrôle de gestion et de l'évaluation de la performance de l'action publique et du suivi de l'utilisation des subventions et des contrôles vétérinaires et phytosanitaires.</p>
+   <p>
+    <emph render="underline">Amand Thébault</emph>
+   </p>
+   <p>Titulaire d'un doctorat de l'École nationale vétérinaire d'Alfort obtenu en 1979, Amand Thébaut a mené sa carrière en tant qu'inspecteur de la santé publique vétérinaire. Il a occupé les postes de directeur départemental des services vétérinaires en Charente-Maritime puis dans les Deux-Sèvres. En 2006, il est nommé inspecteur général de la santé publique vétérinaire au sein de la MIGA du CGAAER. Jusqu'à son départ à la retraite en 2010, il est en charge du suivi de l'utilisation des subventions et des contrôles vétérinaires et phytosanitaires, l'une des missions attribuées à la MIGA.</p>
+  </bioghist>
+  <custodhist>
+   <p>Les fichiers composant ce versement ont fait l'objet d'un traitement pièce à pièce pour repérer les doublons et opérer un tri de l'ensemble des fichiers afin d'éliminer ceux qui ne possédaient pas d'intérêt historique et ceux qui n'étaient pas exploitables.</p>
+   <p>Les fichiers se présentant sous des formats variés et non pérennes pour certains (doc, xls, zip, pdf ou eml) ont été convertis en PDF/A. Tous ont été ensuite renommés selon une charte interne calquée sur les attentes des Archives nationales.</p>
+  </custodhist>
+  <appraisal>
+   <p>Les éliminations ont porté sur des documents sans valeur historique et des doublons soit 317 fichiers sur les 503 initiaux (259 Mo).</p>
+  </appraisal>
+  <arrangement>
+   <p>Les dossiers sont classés par ordre chronologique de début de chaque mission d'audit ou de suivi.</p>
+   <p>Certaines pièces nécessaires à l'instruction de l'audit sont antérieures au début de la mission d'audit elle-même, elles n'ont néanmoins pas été prises en compte pour le classement des dossiers les uns par rapport aux autres.</p>
+  </arrangement>
+  <accruals>
+   <p>Ce versement devrait être complété par un versement d'archives papier effectué par Amand Thébault lors de son départ en retraite en mars 2011.</p>
+  </accruals>
+  <scopecontent>
+   <p>Ce versement se compose de fichiers relatifs aux différents audits qu'Amand Thébault a conduits. Il est intéressant à plus d'un titre car il présente le déroulement d'une mission d'audit et de la méthodologie employée. En consultant ce versement, le chercheur pourra trouver des informations sur les différents types d'audits menés par la MIGA du CGAAER, sur les normes en vigueur sur lesquelles les auditeurs s'appuient en matière de contrôle vétérinaire mais également sur les conditions d'octroi des aides agricoles accordées aux exploitations d'élevage.</p>
+   <p>L'analyse de ces documents donne également des indications sur les structures concernées (services déconcentrés du ministère de l'agriculture par exemple) par les contrôles sanitaires des abattoirs, les contrôles de la conditionnalité des aides agricoles et ceux sur le bien-être animal, sur la protection, l'identification et la santé animale dans sa globalité.</p>
+   <p>Chaque mission est finalisée, en règle générale, par un rapport d'audit qui contextualise la mission, décrit les étapes du processus d'audit et fait ressortir les recommandations et conclusions.</p>
+   <p>Les différents articles composant ce versement contiennent les mêmes typologies documentaires relatives au déroulement des missions d'audit : programmes, questionnaires, diaporamas de présentation, guides et manuels de procédures, rapports d'audits ou de missions, notes, correspondance. Ils comprennent également des documents liés aux activités ou à l'organisation des services déconcentrés du ministère de l'agriculture audités : comptes rendus de réunions, organigrammes, arrêtés, rapports d'audits, rapports d'inspection, instructions, procès verbaux, guides, tableaux, notes, correspondance.</p>
+  </scopecontent>
+  <separatedmaterial>
+   <p>Six autres versements relatifs à l'inspection générale de l'agriculture sont conservés sur le site de Fontainebleau des Archives nationales :</p>
+   <list>
+    <item>
+     <emph render="bold">19770412 (IG/AGRI 1-203) </emph>Inspection générale de l'agriculture : dossiers de l'inspecteur général de Vaissière. 1959-1976
+    </item>
+    <item>
+     <emph render="bold">19940722 (art. 1-6, 15)  </emph>Inspection générale de l'agriculture : application des règlements et directives européens, contrôles communautaires. 1965-1984
+    </item>
+    <item>
+     <emph render="bold">20050566 (18 IGA 1-5) </emph>Inspection générale de l'agriculture : rapports de l'inspection générale de l'agriculture. 1997-2003
+    </item>
+    <item>
+     <emph render="bold">20060312 art. 10-12 </emph>Inspection générale de l'agriculture : dossiers de Jean-François Merle, chef du service de l'Inspection générale de l'agriculture : suivi des missions effectuées pour l'Inspection générale de l'agriculture. 1991-2003
+    </item>
+    <item>
+     <emph render="bold">20070317 art. 22-24 </emph>Inspection générale de l'agriculture : dossiers d'Edgar Leblanc, Inspecteur général de l'agriculture : missions d'audit. 1994-2003
+    </item>
+    <item>
+     <emph render="bold">20070318 art. 12-20 </emph>Inspection générale de l'agriculture : dossiers de René Zakine, inspecteur général de l'agriculture : missions d'audit. 1984-2004
+    </item>
+   </list>
+  </separatedmaterial>
+  <dsc>
+  <c id="c1kvn2elogki-1flyuk9c2hmtn" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/1</unitid>
+     <unittitle>Suivi des suites données à l'audit de la direction départementale de l'agriculture et de la forêt (DDAF) du Lot-et-Garonne sur la gestion des mouvements des droits à paiement unique (DPU) en régime de croisière</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2008-01-01 / 2010-12-31">2008-2010</unitdate>
+     <physdesc>
+     <extent>13 fichiers pour 5.662.720 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2elorx6-1t4s15lro4l57" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/2</unitid>
+     <unittitle>Audit interne de la direction départementale des services vétérinaires (DDSV) du Tarn sur les agréments sanitaires dans la filière viande d'animaux de boucherie</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2008-01-01/2008-12-31">2008</unitdate>
+     <physdesc>
+     <extent>2 fichiers pour 204.800 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2elotxt--1k24raxmp6a2g" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/3</unitid>
+     <unittitle>Audit interne de la DDSV de la Mayenne sur les agréments sanitaires dans la filière viande d'animaux de boucherie</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2008-01-01/2009-12-31">2008-2009</unitdate>
+     <physdesc>
+     <extent>8 fichiers pour 3.123.200 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2elovsn--p5ts52obtr90" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/4</unitid>
+     <unittitle>Audit interne de la DDSV de la Somme sur les agréments sanitaires dans la filière viande d'animaux de boucherie</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2008-01-01/2009-12-31">2008-2009</unitdate>
+     <physdesc>
+     <extent>5 fichiers pour 2.293.760 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2eloxi8--ozxlz2t1gshl" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/5</unitid>
+     <unittitle>Audit du suivi et du contrôle de l'identification des ovins et caprins et du traitement des demandes de primes ovines dans le département de la Dordogne</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2008-01-01/2009-12-31">2008-2009</unitdate>
+     <physdesc>
+     <extent>11 fichiers pour 6.389.760 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2eloz8q-453f97erou4l" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/6</unitid>
+     <unittitle>Audit interne de la DDSV de Seine-Saint-Denis sur les agréments sanitaires dans la filière viande d'animaux de boucherie</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2009-01-01/2009-12-31">2009</unitdate>
+     <physdesc>
+     <extent>7 fichiers pour 5.048.320 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2elp10q-ktrlv8ym9mhn" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/7</unitid>
+     <unittitle>Mission de suivi des suites données aux audits du système d'identification des bovins, ovins et caprins et de la mise en œuvre du système intégré de gestion et de contrôle des primes animales dans le département de la Mayenne</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2007-01-01/2009-12-31">2007-2009</unitdate>
+     <physdesc>
+     <extent>19 fichiers pour 3.932.160 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2elpbwq-1x0h2mjuvjga3" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/8</unitid>
+     <unittitle>Audit sur la mise en œuvre de la conditionnalité des aides dans le département de la Côte-d'Or</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2005-01-01/2009-12-31">2005-2009</unitdate>
+     <physdesc>
+     <extent>32 fichiers pour 9.482.240 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2elpf9t-1j8854spw65ax" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/9</unitid>
+     <unittitle>Mission de suivi des suites données aux audits du système d'identification des bovins, ovins et caprins et de la mise en œuvre du système intégré de gestion et de contrôle des primes animales dans le département de la Nièvre</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2009-01-01/2009-12-31">2009</unitdate>
+     <physdesc>
+     <extent>5 fichiers pour 491.520 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2elph4v--1ief1flnhof50" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/10</unitid>
+     <unittitle>Audit interne sur la gestion des transferts des DPU par la direction départementale de l'équipement et de l'agriculture (DDEA) dans le département du Gers</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2009-01-01/2009-12-31">2009</unitdate>
+     <physdesc>
+     <extent>2 fichiers pour 1.484.800 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2elpj2q--1b0noig7v04r0" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/11</unitid>
+     <unittitle>Audit du suivi et du contrôle de l'identification des ovins et caprins et du traitement des demandes de primes ovines dans le département de la Guadeloupe</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2000-01-01/2010-12-31">2000-2010</unitdate>
+     <physdesc>
+     <extent>28 fichiers pour 8.857.600 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2elpl0i--hvmna601ui4u" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/12</unitid>
+     <unittitle>Audit interne sur la bien-traitance animale dans les abattoirs d'animaux de boucherie dans le département de l'Aude</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2009-01-01/2010-12-31">2009-2010</unitdate>
+     <physdesc>
+     <extent>24 fichiers pour 22.343.680 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+   <c id="c1kvn2elpmqg-1bba9stllq8kh" level="otherlevel">
+   <did>
+    <unitid type="cote-de-consultation">20110288/13</unitid>
+     <unittitle>Audit du suivi et du contrôle de l'identification des ovins et caprins et du traitement des demandes de primes ovines dans le département du Puy-de-Dôme</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2007-01-01/2010-12-31">2007-2010</unitdate>
+     <physdesc>
+     <extent>30 fichiers pour 8.468.480 octets environ</extent>
+     </physdesc>
+    </did>
+   </c>
+  </dsc>
+ </archdesc>
+</ead>

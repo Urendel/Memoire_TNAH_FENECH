@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="ead.css"?><!DOCTYPE ead SYSTEM "ead_sia.dtd">
+<ead>
+	<eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid>FRAN_IR_056722</eadid>
+ <filedesc>
+  <titlestmt>
+   <titleproper>Archives électroniques de la Maison de l'histoire de France (2009-2012)</titleproper>
+    <subtitle>Répertoire numérique détaillé du versement 20170434</subtitle>
+    <author>Lindsay Fusfeld et Justine Dilien, archivistes à la Mission des archives du ministère de la Culture, sous la direction de Louise Gaillard, archiviste, et de Patrice Guérin, chef de la Mission des archives</author>
+   </titlestmt>
+   <editionstmt>
+				<edition>Première édition électronique</edition>
+			</editionstmt>
+   <publicationstmt>
+   <publisher>Archives nationales</publisher>
+    <address>
+					<addressline>Pierrefitte-sur-Seine</addressline>
+				</address>
+    <date calendar="gregorian" era="ce" normal="2018-01-01/2018-12-31">2018</date>
+   </publicationstmt>
+  </filedesc>
+  <profiledesc>
+  <creation>Cet instrument de recherche a été rédigé dans le système d'information archivistique des Archives nationales.</creation>
+   <langusage>
+    <language langcode="fre">Français</language>
+   </langusage>
+   <descrules>Conforme à la norme ISAD(G) et aux règles d'application de la DTD EAD (version 2002) aux Archives nationales.</descrules>
+  </profiledesc>
+ </eadheader>
+	<frontmatter>
+		<div>
+			<p/>
+		</div>
+	</frontmatter>
+	<archdesc level="fonds">
+ <did>
+  <unitid type="identifiant">20170434/1-20170434/95</unitid>
+   <unittitle>Archives électroniques de la Maison de l'histoire de France (MHF).</unittitle>
+   <unitdate calendar="gregorian" era="ce" normal="2009-01-01 / 2012-12-31">2009-2012</unitdate>
+   <origination>
+    <corpname authfilenumber="FRAN_NP_010122">Maison de l'histoire de France</corpname>
+   </origination>
+   <physdesc>
+   <extent>30, 1 Go dont 4 vidéos, 27 enregistrements sonores et 676 photographies (354 de Didier Lowy, 274 de Philippe Dureuil, 45 de l'ECPAD, et 3 des Archives départementales des Alpes).</extent>
+   </physdesc>
+   <langmaterial>
+    <language langcode="fre">Français</language>
+    <language langcode="eng">Anglais</language>
+   </langmaterial>
+   <repository>Archives nationales de France</repository>
+   <physloc>Pierrefitte-sur-Seine</physloc>
+  </did>
+  <accessrestrict>
+   <p>L’ensemble de ce fonds est soumis au régime de communicabilité des archives publiques. En application des articles L.213-1 à L.213-8 du code du patrimoine, et compte tenu des informations dont la communication pourrait porter atteinte à la protection de la vie privée, la communicabilité des articles 5 et 46 est de cinquante ans à compter de la date du document le plus récent inclus dans le dossier. Tous les autres articles sont librement communicables.</p>
+  </accessrestrict>
+  <userestrict>
+   <p>Selon le règlement de la salle de lecture.</p>
+  </userestrict>
+  <acqinfo>
+   <p>Versement aux Archives nationales en 2018.</p>
+  </acqinfo>
+  <custodhist>
+   <p>Ce fonds était sauvegardé par le sous-direction des systèmes d'informations du ministère de la Culture jusqu'à la dissolution de la MHF en 2014, date à laquelle la Mission des archives du ministère l'a collecté sour le numéro de versement 14V0224.</p>
+  </custodhist>
+  <appraisal>
+   <p>Les éliminations ont porté sur des doublons et de la documentation.</p>
+  </appraisal>
+  <arrangement>
+   <p>Le plan de classement établit par la Maison de l'histoire de France a été conservé.</p>
+  </arrangement>
+  <scopecontent>
+   <p>Ce fonds se compose des dossiers des assemblées générales et des conseils d’administration, qui apportent un éclairage sur la création et le fonctionnement de la MHF. Il contient également, les dossiers de suivi des projets et les activités engagés par la MHF, tels les projets numériques, les colloques et les expositions.</p>
+  </scopecontent>
+  <relatedmaterial>
+   <list>
+    <item>Fonds d'Hilaire Multon, conseiller auprès de Frédéric Mitterrand, ministre de la Culture et de la communication, chargé du patrimoine, des musées, des archives, de l'histoire de l'art et de la mémoire, versé à la mission des archives du ministère sous le n°12V0125.</item>
+    <item>20130555 Fonds papier de la Maison de l'histoire de France (2007-2012).</item>
+   </list>
+  </relatedmaterial>
+  <bibliography>
+   <p>• Hervé Lemoine, « La Maison de l'histoire de France. Pour la création d'un centre de recherches et de collections permanentes dédiées à l'histoire civile et militaire de la France », 2008, 93 p. dactyl.</p>
+   <p>• Jean-Pierre Rioux, « Sites susceptibles d'accueillir un musée de l'histoire de France », mai 2009, 96 p. dactyl.</p>
+   <p>• Jean-François Hebert, « Éléments de décision pour la Maison de l'histoire de France », avril 2010, 85 p. dactyl.</p>
+   <p>• Avant-projet pour la Maison de l'histoire de France, Paris, ministère de la Culture et de la communication, 2011, 71 p.</p>
+   <p>• Jean-Pierre Babelon, Isabelle Backouche, Vincent Duclert, Ariane James-Sarazin, Quel musée d'histoire pour la France ? Paris, Armand Colin, 2011, 192 p.</p>
+   <p>• Projet pour la Maison de l'histoire de France, Paris, Maison de l'histoire de France, 2012, 52 p.</p>
+   <p>• Isabelle Backouche et Vincent Duclert, Maison de l'histoire de France. Enquête critique, Paris, fondation Jean-Jaurès, 2012, 282 p.</p>
+   <p>• Emmanuel Pénicaut et Gennaro Toscano (éd.), Lieux de mémoire, musées d'histoire, Actes du colloque des 18 et 19 juin 2009, Paris, La Documentation française, 2012.</p>
+   <p>• Charles Personnaz et Emmanuel Pénicaut, La Maison de l'histoire de France. Autopsie d'un échec, Paris, La Documentation française, 2013.</p>
+  </bibliography>
+  <dsc>
+  <c id="c-o26zhwff--yekt4l2n0njq" level="recordgrp">
+   <did>
+    <unitid type="identifiant">20170434/1- 20170434/19</unitid>
+     <unittitle>Administration générale</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2012-12-31">2010-2012</unitdate>
+    </did>
+    <c id="c-zvnl0p4xl-1e447xzmlitwe">
+    <did>
+     <unitid type="identifiant">20170434/1-20170434/7</unitid>
+      <unittitle>Association de préfiguration</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2012-12-31">2010-2012</unitdate>
+     </did>
+     <relatedmaterial>
+      <p>20130555/8</p>
+     </relatedmaterial>
+     <c id="c-zwne5bzeb-1kkz7a9lcn0wq">
+     <did>
+      <unitid type="identifiant">20170434/1-20170434/6</unitid>
+       <unittitle>Instances délibératives</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2012-12-31">2010-2012</unitdate>
+      </did>
+      <c id="c-zx7lzk638-xeozvckv67id">
+      <did>
+       <unitid type="cote-de-consultation">20170434/1</unitid>
+        <unittitle>Assemblée générale et conseil d'administration du 8 octobre 2010</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2010-12-31">2010</unitdate>
+       </did>
+       <scopecontent>
+        <p>Procès-verbaux, ordres du jour, délibération pour la nomination des commissaires aux comptes titulaire et supplément, projet de délibération pour la modification des statuts.</p>
+       </scopecontent>
+      </c>
+      <c id="c-zyg9wcnju--ye1rxgtwwwfu">
+      <did>
+       <unitid type="cote-de-consultation">20170434/2</unitid>
+        <unittitle>Assemblée générale et conseil d'administration du 6 décembre 2010</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2010-12-31">2010</unitdate>
+       </did>
+       <scopecontent>
+        <p>Procès-verbaux, ordres du jour, liste des membres du conseil d'administration.</p>
+       </scopecontent>
+      </c>
+      <c id="c-zzcbog1i0-29wohixh1tr2">
+      <did>
+       <unitid type="cote-de-consultation">20170434/3</unitid>
+        <unittitle>Conseil d'administration du 8 avril 2011</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2011-12-31">2010-2011</unitdate>
+       </did>
+       <scopecontent>
+        <p>Procès-verbal, ordre du jour, comptes de l'exercice 2010, rapport moral et financier de l'année 2010, délibération pour l'approbation du CA, délibération relative à la labellisation d'expositions.</p>
+       </scopecontent>
+      </c>
+      <c id="c-100puu2yxz-1t9bkud1iuv4c">
+      <did>
+       <unitid type="cote-de-consultation">20170434/4</unitid>
+        <unittitle>Assemblée générale et conseil d'administration du 30 septembre 2011</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+       </did>
+       <scopecontent>
+        <p>Procès-verbal, ordre du jour, projets de délibérations pour l'approbation du CA et de l'AG, lettre déclarative de la direction, rapports de présentation relatifs à la modification des statuts de l'association et à la décision budgétaire modificative, tableaux de suivi budgétaire, décisions budgétaires modificatives, copie du rapport au commissaire aux comptes sur les comptes annuels arrêtés au 31 décembre 2010, dossier de demande de subvention, déclaration d'existence du diffuseur, notes.</p>
+       </scopecontent>
+      </c>
+      <c id="c-1053jeb5gx--g39qyb3xp2wm">
+      <did>
+       <unitid type="cote-de-consultation">20170434/5</unitid>
+        <unittitle>Conseil d'administration du 11 avril 2012</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+       </did>
+       <accessrestrict>
+        <p>Communicable au terme d'un délai de 50 ans.</p>
+       </accessrestrict>
+       <scopecontent>
+        <p>Projet de rapport d'exécution, dossier de demande de subvention complémentaire, rapport d'activité de 2011, rapport au commissaire aux comptes sur les comptes annuels arrêtés au 31 décembre 2011, lettre déclarative à la direction, éléments d'activité du secteur administratif et financier de l'exercice 2012, tableau des rémunérations des agents, tableau récapitulatif des contrats et marchés publics, liste des factures non payées, notes, correspondance.</p>
+       </scopecontent>
+      </c>
+      <c id="c-107efhdypo--tl9tlfvb76kw">
+      <did>
+       <unitid type="cote-de-consultation">20170434/6</unitid>
+        <unittitle>Assemblée générale extraordinaire du 6 juillet 2012</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Procès-verbal, ordre du jour, délibérations, rapport de liquidation, comptes de clôture de liquidation au 11 avril 2012, tableaux des dépenses et de suivi budgétaire, inventaire du matériel, correspondance.</p>
+       </scopecontent>
+      </c>
+     </c>
+     <c id="c-108o343e9q--1ttsiw41m2f7i">
+     <did>
+      <unitid type="cote-de-consultation">20170434/7</unitid>
+       <unittitle>Dépôt des nominations aux instances</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+      </did>
+      <scopecontent>
+       <p>Note de recommandation de l'agence du patrimoine immatériel de l'État à Jean-François Hebert.</p>
+      </scopecontent>
+     </c>
+    </c>
+    <c id="c-1qdum3lgz-1rallh8pzpc9x" level="subgrp">
+    <did>
+     <unitid type="identifiant">20170434/8-20170434/10</unitid>
+      <unittitle>Comité d'orientation scientifique (COS)</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+      <langmaterial>
+       <language langcode="eng">Anglais</language>
+      </langmaterial>
+     </did>
+     <relatedmaterial>
+      <p>20130555/10-12</p>
+     </relatedmaterial>
+     <c id="c-2j7jj4uhn--1uit71rnv0a1w" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/8</unitid>
+       <unittitle>L'avant-projet et projet de la MHF</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+      </did>
+      <scopecontent>
+       <p>Projet et avant-projets, communiqué et dossier de presse du 16 juin 2011 annonçant la remise de l'avant-projet, transcription du discours du ministre lors de la conférence de presse, tableau des journalistes présents, calendrier, présentation du fonctionnement du comité, notes.</p>
+      </scopecontent>
+     </c>
+     <c id="c-3k2tyein2-1nw8apa2vcav1" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/9</unitid>
+       <unittitle>Installation de la MHF</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+      </did>
+      <scopecontent>
+       <p>Communiqué et dossier de presse, transcriptions des discours de Frédéric Mitterand et de Jean-Pierre Rioux.</p>
+      </scopecontent>
+     </c>
+     <c id="c-3hhp8gyl1-1fvw9fexlunf" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/10</unitid>
+       <unittitle>Présentation des membres</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Lettre de Maryvonne de Saint-Pulgent, lettre de départ de Jean-François Hebert de l'association de préfiguration adressée aux membres du comité, biographies.</p>
+      </scopecontent>
+     </c>
+    </c>
+    <c id="c-1xstiucau-zfehwtvzzyxs" level="subgrp">
+    <did>
+     <unitid type="identifiant">20170434/11- 20170434/19</unitid>
+      <unittitle>Établissement public</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+     </did>
+     <c id="c-1y4fjp19x-qbhx0epm85pd" level="subgrp">
+     <did>
+      <unitid type="identifiant">20170434/11-20170434/14</unitid>
+       <unittitle>Création</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+      </did>
+      <c id="c-7otqx9zpf--1ndlna5cqz9o7" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/11</unitid>
+        <unittitle>Réflexion et avancement</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+       </did>
+       <scopecontent>
+        <p>Fiches et tableaux d'hypothèses, projets de statuts et de conventions constitutives du groupement d'intêret public (GIP), notes.</p>
+       </scopecontent>
+      </c>
+      <c id="c-7qf0rqdxe--wg9m2wye7ps" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/12</unitid>
+        <unittitle>Statuts</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Décret n°2011-1928 du 22 décembre 2011 publié au Journal Officiel, situation aux répertoire SIRENE, tableaux des actifs transférés de l'association, projet de décret, note.</p>
+       </scopecontent>
+      </c>
+      <c id="c-88ykh8mmr--1oah90my2ikiz" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/13</unitid>
+        <unittitle>Définition des missions</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Dossier ministre, notes de transmissions au Directeur général du patrimoine et à la Directrice du cabinet de la ministre, propositions pour la commission scientifique se prononçant sur les acquisitions, communiqué de presse de la MHF sur les "premiers pas de l'établissement".</p>
+       </scopecontent>
+      </c>
+      <c id="c-7yjgxkd48-1kbgpu0p59c6g" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/14</unitid>
+        <unittitle>Opposition des organisations syndicales</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Rapport du Conseil d'État du 19 décembre 2011, recours en annulation, copie de la lettre du ministère à la CGT-Culture, projets de notes de saisines à la mission juridique du Conseil d'État, tableaux de répartitions des compétences.</p>
+       </scopecontent>
+      </c>
+     </c>
+     <c id="c-9410hqsad-1bs489yarfwpg" level="subgrp">
+     <did>
+      <unitid type="identifiant">20170434/15-20170434/17</unitid>
+       <unittitle>Conseils d'administration</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <c id="c-95zp5e1rt--qbecuizkjbhl" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/15</unitid>
+        <unittitle>Conseil d'administration du 2 avril 2012</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Procès-verbal, ordre du jour, projets de délibérations, projets de conventions cadres avec l'établissement public du Palais de la Porte-Dorée-Cité nationale de l'histoire de l'immigration et le ministère de l'Éducation nationale, de la jeunesse et de la vie associative, décisions budgétaires modificatives, comptes des résultats, tableau de financement, notes de présentation des 14 délibérations, plan de trésorerie, correspondance sur l'approbation des délibérations.</p>
+       </scopecontent>
+      </c>
+      <c id="c-5s6sjx1y5-i7yp27e4jlc1" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/16</unitid>
+        <unittitle>Nomination des membres du CA</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Communiqué de presse du 13 mars 2012 annnonçant les six membres du conseil.</p>
+       </scopecontent>
+      </c>
+      <c id="c-96ikaftrw--i42xqkvc1q35" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/17</unitid>
+        <unittitle>Modalités de l'élection du représentant du personnel et de son suppléant au conseil d'administration</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Décision n°2012-04 du 29 août 2012 fixant la date et les modalités de l'élection, notes.</p>
+       </scopecontent>
+      </c>
+     </c>
+     <c id="c-260l3lptc--jljmwqkf28qn" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/18</unitid>
+       <unittitle>Comptes rendus de réunions plénières des 4 et 11 juin 2012, et de chefs de pôle des 23 mai et 18 juin 2012</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+     </c>
+     <c id="c-99tqrc8kz-14dsra0i8ddqp" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/19</unitid>
+       <unittitle>Présidence de Maryvonne de Saint-Pulgent</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Décret du 26 décembre 2011 portant nomination de la présidente de la Maison de l’histoire de France - Mme Chamboduc de Saint-Pulgent (Maryvonne), communiqué de presse du 21 décembre 2011 annonçant la création de l'établissement et la nomination de la présidente, lettre de la présidente annonçant sa démission du poste aux membres du conseil et du comité.</p>
+      </scopecontent>
+     </c>
+    </c>
+   </c>
+   <c id="c-p832sx56-12ibv7p0je5bg" level="recordgrp">
+   <did>
+    <unitid type="identifiant">20170434/20-20170434/21</unitid>
+     <unittitle>Gestion des ressources humaines</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+    </did>
+    <c id="c-9ihl5v5hd-1oi13y4p10bsx" level="file">
+    <did>
+     <unitid type="cote-de-consultation">20170434/20</unitid>
+      <unittitle>Gestion des effectifs</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+     </did>
+     <scopecontent>
+      <p>Compte rendu de réunion sur le cadre de gestion et de rémunération des agents non titulaires, prévision de répartition d'emplois, note sur l'allocation des emplois.</p>
+     </scopecontent>
+    </c>
+    <c id="c-9lq1imssh--oe0vu87o91sj" level="file">
+    <did>
+     <unitid type="cote-de-consultation">20170434/21</unitid>
+      <unittitle>Recrutement</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+     </did>
+     <scopecontent>
+      <p>Recueil de proposition d'accueil en stage des élèves attachés d'administration de l'Etat, fiches de postes, notes.</p>
+     </scopecontent>
+    </c>
+   </c>
+   <c id="c-psiim5dn--1cwhsgankrvop" level="recordgrp">
+   <did>
+    <unitid type="identifiant">20170434/22- 20170434/26</unitid>
+     <unittitle>Implantation sur le site du quadrilatère Rohan Soubise</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2009-01-01 / 2012-12-31">2009-2012</unitdate>
+    </did>
+    <c id="c-3t96l89i9-75y87hwa6ck" level="file">
+    <did>
+     <unitid type="cote-de-consultation">20170434/22</unitid>
+      <unittitle>Réflexion sur l'aménagement</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+     </did>
+     <scopecontent>
+      <p>Élements de réflexion, note relative à un espace pour enfants.</p>
+     </scopecontent>
+    </c>
+    <c id="c-3xcxkhs1q--q3lsemol5yse" level="subgrp">
+    <did>
+     <unitid type="identifiant">20170434/23- 20170434/26</unitid>
+      <unittitle>Répartition des espaces</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2009-01-01 / 2012-12-31">2009-2012</unitdate>
+     </did>
+     <c id="c-61wha11xa-1e959on2f97kb" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/23</unitid>
+       <unittitle>Pré-programmation établie par l'Opérateur du patrimoine et des projets immobiliers de la Culture (OPPIC)</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2009-01-01 / 2012-12-31">2009-2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Comptes rendus de réunions, plannings, tableaux de cadrage des superficies, plans, notes. </p>
+      </scopecontent>
+      <relatedmaterial>
+       <p>20130555/40</p>
+      </relatedmaterial>
+     </c>
+     <c id="c-65u3mfxwl-o4wzmcgmu0wb" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/24</unitid>
+       <unittitle>Programmation architecturale et fonctionnelle, analyse des besoins et élaboration de scénarios d'implantation</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Acte d'engagement et cahier des clauses particulières, analyse des offres, réglement de la consultation, avis d'appels publics à la concurrence, composition du dossier et ordre du jour de la réunion de lancement du 21 juillet 2011, proposition de méthodologie, analyse des pré-scénarios d'évolution du quadrilatère, études des phases 1 et 2 de pré-programmation et de faisabilité, plans, présentations des scénarios, graphiques des scénarios dégradés, tableaux d'analyse des scénarios d'estimation financière, comptes rendus des réunions interministérielles, étude de la phase 3 sur la synthèse, schémas de référence concerté, tableau sur l'évaluation des coûts de travaux des bâtiments, notes. </p>
+      </scopecontent>
+     </c>
+     <c id="c-6h7k5dx79-180ko2y5gq14p" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/25</unitid>
+       <unittitle>Relations avec les Archives nationales</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2012-12-31">2010-2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Comptes rendus de réunions, tableaux et analyse des besoins en surface des Archives nationales, études des phases 1 et 2 de la programmation architecturale et fonctionnelle des Archives nationales sur le site de Paris, transcriptions des discours du ministre à l'occasion de la visite du chantier de Pierrefitte-sur-Seine et du conseil supérieur des archives, notes. </p>
+      </scopecontent>
+     </c>
+     <c id="c-6ljg1p4t8-1xp9zsruh78k6" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/26</unitid>
+       <unittitle>Comité stratégique Rohan-Soubise et comité de pilotage du schéma directeur général</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+      </did>
+      <scopecontent>
+       <p>Comptes rendus de réunion, étude d'évaluation sur l'authenticité du quadrilatère, états des lieux des réunions, plan, correspondance. </p>
+      </scopecontent>
+     </c>
+    </c>
+   </c>
+   <c id="c-qj347xdu--1e8rip216dvpj" level="recordgrp">
+   <did>
+    <unitid type="identifiant">20170434/27- 20170434/33</unitid>
+     <unittitle>Communication et mécénat</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2013-12-31">2010-2013</unitdate>
+    </did>
+    <c id="c-rpqsuix0--dejegfoud6py" level="subgrp">
+    <did>
+     <unitid type="identifiant">20170434/27-20170434/30</unitid>
+      <unittitle>Relation avec la presse</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2013-12-31">2010-2013</unitdate>
+     </did>
+     <c id="c-tqinnvjm--1sqvisty4seju" level="subgrp">
+     <did>
+      <unitid type="identifiant">20170434/27-20170434/29</unitid>
+       <unittitle>Dossiers et revues de presse</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2013-12-31">2010-2013</unitdate>
+      </did>
+      <c id="c-uj2r67om-16raeg22ppbse" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/27</unitid>
+        <unittitle>Dossiers de presse généraux</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2010-01-01 / 2012-12-31">2010-2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Dossiers de presse.</p>
+       </scopecontent>
+      </c>
+      <c id="c-ul93cxlv-1fubo9g8b4t5c" level="file">
+      <did>
+       <unitid type="identifiant">20170434/28-20170434/29</unitid>
+        <unittitle>Revues de presse</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2013-12-31">2011-2013</unitdate>
+       </did>
+       <c id="c-we6s3x0b-1slgo56fdf4t3" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/28</unitid>
+         <unittitle>Vie et activités</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+        </did>
+        <scopecontent>
+         <p>Articles de presse.</p>
+        </scopecontent>
+       </c>
+       <c id="c-wzxkna31-1aqzhn5oqxns3" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/29</unitid>
+         <unittitle>Fermeture de la MHF</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2013-12-31">2012-2013</unitdate>
+        </did>
+        <scopecontent>
+         <p>Articles de presse.</p>
+        </scopecontent>
+       </c>
+      </c>
+     </c>
+     <c id="c-ztk2diou-vzdv6778wv0x" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/30</unitid>
+       <unittitle>Petit-déjeuner-conférence de presse du 23 septembre 2011</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+      </did>
+      <scopecontent>
+       <p>Invitation, déroulé du petit-déjeuner, devis, note, correspondance.</p>
+      </scopecontent>
+     </c>
+    </c>
+    <c id="c-7hfo3dss8--113g8b9swyvqu" level="file">
+    <did>
+     <unitid type="cote-de-consultation">20170434/31</unitid>
+      <unittitle>Création d'une identité visuelle et d'une charte graphique</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+     </did>
+     <scopecontent>
+      <p>Eléments de réflexion et fiches explicatives, planches de présentation des logos et typographie, charte graphique établie par l'Atelier de Palmar, plan de communication, notes.</p>
+     </scopecontent>
+    </c>
+    <c id="c-7v0ki3e7m-1xo1lwhftit2d" level="file">
+    <did>
+     <unitid type="cote-de-consultation">20170434/32</unitid>
+      <unittitle>Projets de revue et de newsletter</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+     </did>
+     <scopecontent>
+      <p>Compte rendu de réunion, notes.</p>
+     </scopecontent>
+    </c>
+    <c id="c-7tmrrgcn6--1kpka7aczfmjt" level="file">
+    <did>
+     <unitid type="cote-de-consultation">20170434/33</unitid>
+      <unittitle>Mécénat</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+     </did>
+     <scopecontent>
+      <p>Comptes rendus de réunion, notes.</p>
+     </scopecontent>
+    </c>
+   </c>
+   <c id="c-r4qrz8wb--y3e831tozi0u" level="recordgrp">
+   <did>
+    <unitid type="identifiant">20170434/34- 20170434/51</unitid>
+     <unittitle>Projets numériques</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+    </did>
+    <c id="c-9k1f2hre7-ur3yyo2rz88p" level="subgrp">
+    <did>
+     <unitid type="identifiant">20170434/34- 20170434/42</unitid>
+      <unittitle>Conception des sites internet</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+     </did>
+     <c id="c-8uvsp89xs--de67h1d8r46m" level="subgrp">
+     <did>
+      <unitid type="identifiant">20170434/34-20170434/39</unitid>
+       <unittitle>Site de la Maison de l'histoire de France</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+      </did>
+      <c id="c-901d8i3kl--1wllwfumkeexq" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/34</unitid>
+        <unittitle>Comité éditorial</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Comptes rendus de réunions, planning éditorial.</p>
+       </scopecontent>
+      </c>
+      <c id="c-91lrqpb9l-1p6vxc73idobk" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/35</unitid>
+        <unittitle>Stratégie numérique et statistiques de fréquentation</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Les chiffres des applications, rapport de fréquentation de juin 2011 à 2012, note sur le développement de l'offre de stratégie numérique pour 2012-2013, tableau de fréquentation du site internet de septembre 2011 à juin 2012.</p>
+       </scopecontent>
+      </c>
+      <c id="c-8xnmf4tq4--1icngd9ckl749" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/36</unitid>
+        <unittitle>Maquettes</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+       </did>
+       <scopecontent>
+        <p>Maquettes des pages des sites internet et mobile, page d'attente.</p>
+       </scopecontent>
+      </c>
+      <c id="c-96t3h7ljd-11toa6hu7dlra" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/37</unitid>
+        <unittitle>Contenus rédactionnels</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Textes rédigés, inventaire multimédia du site.</p>
+       </scopecontent>
+      </c>
+      <c id="c-991srzoey-ebs3u2sbp7fu" level="subgrp">
+      <did>
+       <unitid type="identifiant">20170434/38-20170434/39</unitid>
+        <unittitle>Dossiers documentaires</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <c id="c-9a49zdknh-1ib6r82v2dr1n" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/38</unitid>
+         <unittitle>"Sur la route de l'esclavage"</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent>1 enregistrement vidéo numérique de "L'expédition de la bonne mère en 1815" (3 minutes et 55 secondes). 1 enregistrement sonore numérique contenant un extrait d'un colloque sur "l'esclavage et la traite des noirs" (39 minutes et 57 secondes).</extent>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>Editorial, grilles d'interviews des chercheurs Antonio de Almeida Mendes et Nelly Schmidt, synopsis, enregistrements vidéo sur l'expédition de "La bonne mère" en 1815, enregistrement sonore d'un extrait d'un colloque sur "L'esclavage et la traite des noirs", images, documentation, notes.</p>
+        </scopecontent>
+       </c>
+       <c id="c-9r5nhd4a1-bh7g9glb5obs" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/39</unitid>
+         <unittitle>"La Maison d'Histoire et de Mémoire d'Ongles" (MHeMO)</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+        </did>
+        <scopecontent>
+         <p>Grille d'interview du chercheur Abderahmen Moumen, trois photographies en noir et blanc des harkis, réglement intérieur concernant l'hébergement dans les hameaux forestiers du 7 mars 1969 numérisé, crédits photographiques.</p>
+        </scopecontent>
+       </c>
+      </c>
+     </c>
+     <c id="c-2310nmc0h--1dqmqkjyuyp8i" level="subgrp">
+     <did>
+      <unitid type="identifiant">20170434/40-20170434/42</unitid>
+       <unittitle>Site de "La France en relief"</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <c id="c-23t8kjxov--2ajl41lqj2kq" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/40</unitid>
+        <unittitle>Statistiques de fréquentation</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Bilan statistique du Code QR pour smartphone de mars 2012, devis pour l'intégration des codes aux supports de communication.</p>
+       </scopecontent>
+      </c>
+      <c id="c-2jtb54jz9--1bv3cfvut7b6l" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/41</unitid>
+        <unittitle>Contenus multimédias</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+        <physdesc>
+        <extent>1 vidéo numérique de l'évolution de la carte des Alpes de François Ier à nos jours (1 minute et 20 secondes). 1 vidéo numérique de l'évolution des frontières de la France de François Ier à nos jours (1 minute et 21 secondes). 1 enregistrement sonore sur la ville de Berg-op-Zoom (1 minute et 31 secondes). 1 enregistrement sonore sur la ville de Briançon (2 minutes et 30 secondes). 1 enregistrement sonore sur le château Trompette à Bordeaux (2 minutes et 18 secondes). 1 enregistrement sonore sur la ville de Cherbourg (2 minutes et 50 secondes). 1 enregistrement sonore sur la ville de Mont-Dauphin (2 minutes et 52 secondes). 1 enregistrement sonore sur la ville du Mont-Saint-Michel (2 minutes et 22 secondes). 1 enregistrement sonore sur la ville de Saint-Omer (2 minutes et 40 secondes). 1 enregistrement sonore sur la ville de Saint-Tropez (2 minutes et 8 secondes). 1 enregistrement sonore sur la ville de Strasbourg (3 minutes et 39 secondes).</extent>
+        </physdesc>
+       </did>
+       <scopecontent>
+        <p>Storyboards, indications sur le graphisme et les légendes, captures d'écrans du plan interactif, deux vidéos, neuf enregistrements sonores sur les villes dont les plans font partis de l'exposition.</p>
+       </scopecontent>
+      </c>
+      <c id="c-30brac5fb-1lwn98gl8z3h1" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/42</unitid>
+        <unittitle>Quizz sur le réseau social Facebook</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+        <physdesc>
+        <extent>1 vidéo numérique d'un acteur jouant Vauban et donnant les réponses du quizz (3 minutes et 58 secondes).</extent>
+        </physdesc>
+       </did>
+       <scopecontent>
+        <p>Captures d'écrans du quizz sur facebook, déclaration normale à la CNIL, liste des questions, réglement du jeu, vidéo de Vauban.</p>
+       </scopecontent>
+      </c>
+     </c>
+    </c>
+    <c id="c-99ic02jkd--4nmmfqzq5jpa" level="subgrp">
+    <did>
+     <unitid type="identifiant">20170434/43-20170434/45</unitid>
+      <unittitle>Co-production d'applications mobiles avec la société Quelle Histoire</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+     </did>
+     <c id="c-3wlz5vjaz-dwl7vp05ew2d" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/43</unitid>
+       <unittitle>Application Mémo Histoire de France</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Communiqué de presse, visuels.</p>
+      </scopecontent>
+     </c>
+     <c id="c-40nu3upop-1n1dd6p7820a1" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/44</unitid>
+       <unittitle>Application Mémo Les présidentielles</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Communiqué de presse, visuels, présentation.</p>
+      </scopecontent>
+     </c>
+     <c id="c-416rv4bg7--34x0bhdavpy4" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/45</unitid>
+       <unittitle>Application ludo-éducative sur des personnages historiques de France</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Communiqué de presse, visuels.</p>
+      </scopecontent>
+     </c>
+    </c>
+    <c id="c-a0fmkj6zk-2suixm1gl9xm" level="file">
+    <did>
+     <unitid type="cote-de-consultation">20170434/46</unitid>
+      <unittitle>Carte interactive des « mille lieux d’histoire et de mémoire »</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+     </did>
+     <accessrestrict>
+      <p>Communicable au terme d'un délai de 50 ans.</p>
+     </accessrestrict>
+     <scopecontent>
+      <p>Communiqué de presse, plan de communication, fiches méthodologique, suggestions des internautes contenant des données à caractère personnel, liste complète des institutions, visuels, notes. </p>
+     </scopecontent>
+    </c>
+    <c id="c-korb1jw3-1cqowwu4awtow" level="file">
+    <did>
+     <unitid type="cote-de-consultation">20170434/47</unitid>
+      <unittitle>Conception et production d'une visite virtuelle au musée d'Archéologie national de Saint-Germain-en-Laye</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="">sans date</unitdate>
+      <physdesc>
+      <extent>9 clichés couleurs des objets exposés.</extent>
+      </physdesc>
+     </did>
+     <userestrict>
+      <p>Copyright : Réunion des Musées Nationaux (RMN).</p>
+     </userestrict>
+     <scopecontent>
+      <p>Visuels du site, photographies, légendes des clichés, chronologie, textes rédigés des musées/parcs archéologiques/villes d'origine gauloise, plan des salles.</p>
+     </scopecontent>
+    </c>
+    <c id="c-15wrqet2d--ydp8gj2tzxb6" level="subgrp">
+    <did>
+     <unitid type="identifiant">20170434/48-20170434/51</unitid>
+      <unittitle>Projets inachevés</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+     </did>
+     <c id="c-1dg7ybdft-1kqqs8pnw293l" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/48</unitid>
+       <unittitle>Développement des applications mobiles ProxHistoire dans le cadre de l’exposition « Les résistants à Paris, 1940-1945 »</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Visuels des maquettes, étude pour l'utilisation de modèle 3D dans l'application, diaporama de présentation, fiches de présentation, analyse comparative fonctionnelle, plan de communication.</p>
+      </scopecontent>
+     </c>
+     <c id="c-1imyaqse6-1pj6rpcolpwk7" level="file">
+     <did>
+      <unitid type="identifiant">20170434/49-20170434/50</unitid>
+       <unittitle>Développement d'un module « Chronologie Encyclopédique Multimédia Interactive »</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <c id="c-6l9a3xw3w-a8w5n6jp8a68" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/49</unitid>
+        <unittitle>Présentation du projet</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Diaporama de présentation, note.</p>
+       </scopecontent>
+      </c>
+      <c id="c-6mrsubkv3--3i8pcie55beq" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/50</unitid>
+        <unittitle>Contenu rédactionnel</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Consignes, notices, tableau des 327 dates sélectionnées.</p>
+       </scopecontent>
+      </c>
+     </c>
+     <c id="c-16kat0qoh-151zkh0iiqby7" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/51</unitid>
+       <unittitle>Dossiers documentaires</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Notes de présentation générale suite à des recherches préliminaires sur "Louis Aragon, Elsa Triolet, un engagement politique" et "Lieux d’histoire éducative", tableau de recensement des ressources sur la guerre d'Algérie.</p>
+      </scopecontent>
+     </c>
+    </c>
+   </c>
+   <c id="c-2708ujkuo-wwm2rh8lcchq" level="recordgrp">
+   <did>
+    <unitid type="identifiant">20170434/52- 20170434/63</unitid>
+     <unittitle>Rencontres, colloques, conférences et séminaire</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+    </did>
+    <c id="c-28qcad9w5--1d0af3wlq1atp" level="subgrp">
+    <did>
+     <unitid type="identifiant">20170434/52-20170434/59</unitid>
+      <unittitle>Rencontres régionales</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+     </did>
+     <c id="c-75cxmvy5x--18bbs76adpufs" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/52</unitid>
+       <unittitle>Organisation et bilan</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+      </did>
+      <scopecontent>
+       <p>Invitations, bilan quantitatif, notes, correspondance.</p>
+      </scopecontent>
+     </c>
+     <c id="c-777fnip5q--1gz57ufe6xkvo" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/53</unitid>
+       <unittitle>Rencontre à Lyon le 27 septembre 2011 au musée Gadagne</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+       <physdesc>
+       <extent>1 enregistrement sonore numérique de la présentation du projet (1 heure, 8 minutes et 35 secondes). 2 enregistrements sonores numériques du débat (Partie 1 : 2 heures, 1 minute et 29 secondes. Partie 2 : 40 minutes et 54 secondes).</extent>
+       </physdesc>
+      </did>
+      <scopecontent>
+       <p>Programme, affiche, retranscription des échanges, trois enregistrements sonores.</p>
+      </scopecontent>
+     </c>
+     <c id="c-7felsdzdb-ifayprds82jw" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/54</unitid>
+       <unittitle>Rencontre à Paris le 6 octobre 2011 au musée des Arts et Métiers</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+       <physdesc>
+       <extent>1 enregistrement sonore numérique de la présentation du projet (55 minutes et 28 secondes). 2 enregistrements sonores numériques du débat (Partie 1 : 2 heures, 5 minutes et 44 secondes. Partie 2 : 45 minutes et 43 secondes).</extent>
+       </physdesc>
+      </did>
+      <scopecontent>
+       <p>Programme, invitation, affiche, retranscription des échanges, trois enregistrements sonores.</p>
+      </scopecontent>
+     </c>
+     <c id="c-7k59ydjvt-1ke1if2gx1tqr" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/55</unitid>
+       <unittitle>Rencontre à Marseille le 10 octobre 2011 aux Archives départementales des Bouches-du-Rhône</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+      </did>
+      <scopecontent>
+       <p>Programme, invitation, affiche, retranscription des échanges.</p>
+      </scopecontent>
+     </c>
+     <c id="c-7up666zgl--x6lrh6oxmztf" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/56</unitid>
+       <unittitle>Rencontre à Toulouse le 17 octobre 2011 au Muséum d'histoire naturelle</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+       <physdesc>
+       <extent>1 enregistrement sonore numérique de la présentation du projet (1 heure, 8 minutes et 8 secondes). 2 enregistrements sonores numériques du débat (Partie 1 : 1 heure, 57 minutes et 41 secondes. Partie 2 : 49 minutes et 42 secondes).</extent>
+       </physdesc>
+      </did>
+      <scopecontent>
+       <p>Programme, invitation, affiche, retranscription des échanges, trois enregistrements sonores.</p>
+      </scopecontent>
+     </c>
+     <c id="c-83pa3hypw--19rvod22lr56p" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/57</unitid>
+       <unittitle>Rencontre à Rennes le 10 novembre 2011 aux Archives départementales d'Ile-et-Vilaine</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+       <physdesc>
+       <extent>1 enregistrement sonore numérique de la présentation du projet (1 heure, 4 minutes et 53 secondes). 2 enregistrements sonores numériques du débat (Partie 1 : 2 heures, 14 minutes et 25 secondes. Partie 2 : 56 minutes et 33 secondes).</extent>
+       </physdesc>
+      </did>
+      <scopecontent>
+       <p>Programme, invitation, affiche, retranscription des échanges, trois enregistrements sonores.</p>
+      </scopecontent>
+     </c>
+     <c id="c-87k46n0z2-171oplauckr2q" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/58</unitid>
+       <unittitle>Rencontre à Lille le 15 novembre 2011 au palais des Beaux-Arts</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+       <physdesc>
+       <extent>1 enregistrement sonore numérique de la présentation du projet (1 heure, 17 minutes et 29 secondes). 2 enregistrements sonores numériques du débat (Partie 1 : 1 heure, 59 minutes et 25 secondes. Partie 2 : 57 minutes et 9 secondes).</extent>
+       </physdesc>
+      </did>
+      <scopecontent>
+       <p>Programme, invitation, affiche, retranscription des échanges, trois enregistrements sonores.</p>
+      </scopecontent>
+     </c>
+     <c id="c-8bm18wgiw--12qsufvkulo0x" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/59</unitid>
+       <unittitle>Rencontre à Strasbourg le 22 novembre 2011 au musée d'art moderne et contemporain</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+       <physdesc>
+       <extent>1 enregistrement sonore numérique de la présentation du projet (1 heure, 1 minute et 55 secondes). 2 enregistrements sonores numériques du débat (Partie 1 : 2 heures, 4 minutes et 47 secondes. Partie 2 : 33 minutes et 27 secondes).</extent>
+       </physdesc>
+      </did>
+      <scopecontent>
+       <p>Programme, invitation, affiche, retranscription des échanges, trois enregistrements sonores.</p>
+      </scopecontent>
+     </c>
+    </c>
+    <c id="c-3iorjuhjj-hodxxdzf0vvr" level="subgrp">
+    <did>
+     <unitid type="identifiant">20170434/60-20170434/63</unitid>
+      <unittitle>Colloques, conférences et séminaires</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+     </did>
+     <c id="c-8tpxww5ob-17ju016mhilub" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/60</unitid>
+       <unittitle>Colloque « Exposer l’histoire des villes et des territoires. Pratiques muséales du XIXe au XXIe siècle » les 7 et 8 juin 2012 à l'Institut national du patrimoine</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Programme, brochure, affiche, communiqué de presse, liste des invités.</p>
+      </scopecontent>
+     </c>
+     <c id="c-904y0p5wx-34grezxq20mo" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/61</unitid>
+       <unittitle>Séminaire de muséologie « Exposer l'archéologie » les 6 et 7 décembre 2012 au musée Henri Prades de Lattes</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Programme.</p>
+      </scopecontent>
+     </c>
+     <c id="c-8q7wio6o3--164ay6j42nfnk" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/62</unitid>
+       <unittitle>Projet de Cycle de conférences « Le Campus de l'histoire » de janvier à décembre 2013</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Notes de présentation.</p>
+      </scopecontent>
+     </c>
+     <c id="c-8wofe5s4u-y4xbjo5n8zky" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/63</unitid>
+       <unittitle>Projet « L'Histoire en chanson » de Bertrand Dicale</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Notes de propositions.</p>
+      </scopecontent>
+     </c>
+    </c>
+   </c>
+   <c id="c-sh0kj60u--13jbokevtfu0g" level="recordgrp">
+   <did>
+    <unitid type="identifiant">20170434/64-20170434/95</unitid>
+     <unittitle>Expositions</unittitle>
+     <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+    </did>
+    <c id="c-80yw2g85y--16s4zyw3utaqn" level="file">
+    <did>
+     <unitid type="identifiant">20170434/64-20170434/88</unitid>
+      <unittitle>Exposition « La France en relief, chefs-d'oeuvre de la collection des plans-reliefs de Louis XIV à Napoléon III » du 18 janvier au 17 février 2012 au Grand Palais</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+     </did>
+     <c id="c-1mcycxjfa-ewwpzjb4hmli" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/64</unitid>
+       <unittitle>Organisation générale et bilan</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Synthèse de l'étude de satisfaction et des publics, communiqué de presse sur le bilan de l'exposition, bilan de la fréquentation, tarification de la privatisation des espaces de l'exposition du Grand-Palais, plan de la scénographie de la salle, notes.</p>
+      </scopecontent>
+     </c>
+     <c id="c-1ti9g9upk--1rjw99zzzqjok" level="subgrp">
+     <did>
+      <unitid type="identifiant">20170434/65-20170434/73</unitid>
+       <unittitle>Communication</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <c id="c-1unb8cggm--1g9mpdh80lels" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/65</unitid>
+        <unittitle>Promotion</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Plan de communication et bilan, budget du plan, comptes rendus de réunions, cahier des charges sur l'affichage, calendrier des affichages, affiches, bâches, justificatifs d'affichage, notes.</p>
+       </scopecontent>
+      </c>
+      <c id="c-21zvl347r-19w4qsoruhalh" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/66</unitid>
+        <unittitle>Relation avec la presse</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Communiqués et dossier de presse, revue de presse, proposition commerciale pour la diffusion des vidéos, statistiques des médias presse, chiffres des opérations de logistique, synthèse des retombés de la presse, comptes rendus des points presse, notes.</p>
+       </scopecontent>
+      </c>
+      <c id="c-286rc02cx--1r3043hiv69x9" level="subgrp">
+      <did>
+       <unitid type="identifiant">20170434/67-20170434/71</unitid>
+        <unittitle>Partenariats avec les médias et les villes</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+       </did>
+       <c id="c-2989puj6l--a797a3ygg99a" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/67</unitid>
+         <unittitle>France 3</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent>1 vidéo numérique du spot de promotion de France 3 (23 secondes).</extent>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>Extrait du contrat d'échange et de partenariat télévisuel exclusif, texte de promotion, plan théorique de la diffusion de la campagne, invitation pour la visite privée du 7 février 2012, vidéo du spot de promotion.</p>
+        </scopecontent>
+       </c>
+       <c id="c-2kwqxvpn4-gyldldqbhs8f" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/68</unitid>
+         <unittitle>Le journal de Mickey</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+        </did>
+        <scopecontent>
+         <p>Proposition de partenariat, devis, pages du journal.</p>
+        </scopecontent>
+       </c>
+       <c id="c-2nztffwmc-1ir9tdi52apyd" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/69</unitid>
+         <unittitle>Le Parisien</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+         <origination>
+          <corpname authfilenumber="FRAN_NP_010122">Maison de l'histoire de France</corpname>
+         </origination>
+        </did>
+        <scopecontent>
+         <p>Proposition de tarif pour un dossier publi-reportage, dossier, visuels.</p>
+        </scopecontent>
+       </c>
+       <c id="c-2q4ezhs8v-lvntjf9xly2o" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/70</unitid>
+         <unittitle>Demandes de partenariats avec les villes et ambassades accueillant l'exposition</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+        </did>
+        <scopecontent>
+         <p>Correspondance.</p>
+        </scopecontent>
+       </c>
+       <c id="c-1qtpaa2b6-12ikfaovxg0lb" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/71</unitid>
+         <unittitle>Prises de vues</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+        </did>
+        <scopecontent>
+         <p>Autorisations.</p>
+        </scopecontent>
+       </c>
+      </c>
+      <c id="c-2s5z9gqhg-1tx74hfnrib3g" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/72</unitid>
+        <unittitle>Guide et animations pour les publics et scolaires</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Dossier pédagogique, guide de visite, dossier du parcours jeu, communiqué de presse destiné aux scolaires, note.</p>
+       </scopecontent>
+      </c>
+      <c id="c-2vxvfpa0v-bxlu9o2dau5p" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/73</unitid>
+        <unittitle>Billeterie et boutique</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Billet d'entrée, cartes postales, visuels du DVD, album, liste d'envoi.</p>
+       </scopecontent>
+      </c>
+     </c>
+     <c id="c-2yn8w6eqo-1xt0b2yo497w4" level="subgrp">
+     <did>
+      <unitid type="identifiant">20170434/74-20170434/75</unitid>
+       <unittitle>Inauguration le 17 janvier 2012 à la nef du Grand-Palais</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+      </did>
+      <c id="c-300lkrdoi--1kkop9g7xd4j6" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/74</unitid>
+        <unittitle>Organisation</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+       </did>
+       <scopecontent>
+        <p>Invitation, déroulé, compte rendu de réunion, listes des invités.</p>
+       </scopecontent>
+      </c>
+      <c id="c-31n0gkuh5--uzkpj374oiu9" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/75</unitid>
+        <unittitle>354 photographies couleurs</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+        <physdesc>
+        <extent/>
+        </physdesc>
+       </did>
+       <userestrict>
+        <p>Copyright: Didier Plowy.</p>
+       </userestrict>
+      </c>
+     </c>
+     <c id="c-340r00xbg--2xgfjacm7e8y" level="subgrp">
+     <did>
+      <unitid type="identifiant">20170434/76-20170434/87</unitid>
+       <unittitle>Campagne photographique de Philippe Dureuil</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <c id="c-36grnn424-rlho0cn38n7v" level="file">
+      <did>
+       <unitid type="cote-de-consultation">20170434/76</unitid>
+        <unittitle>Ensemble de l'exposition</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+        <physdesc>
+        <extent/>
+        </physdesc>
+       </did>
+       <userestrict>
+        <p>Copyright : Philippe Dureuil.</p>
+       </userestrict>
+       <scopecontent>
+        <p>140 photographies couleurs.</p>
+       </scopecontent>
+      </c>
+      <c id="c-38kv1bvxn-xw274k6xscjc" level="subgrp">
+      <did>
+       <unitid type="identifiant">20170434/77-20170434/87</unitid>
+        <unittitle>Plans-reliefs par villes</unittitle>
+        <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+       </did>
+       <userestrict>
+        <p>Copyright : Philippe Dureuil.</p>
+       </userestrict>
+       <c id="c-3etzlwi6z--1cbceelp09hox" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/77</unitid>
+         <unittitle>Alpes</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>20 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+       <c id="c-3fx7od6lf-1tvh8kd5j8sxg" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/78</unitid>
+         <unittitle>Berg-op-Zoom</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>8 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+       <c id="c-3i9xtz04v--trjzfymz3acz" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/79</unitid>
+         <unittitle>Besançon</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>9 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+       <c id="c-3j2t6jts2--1kx0u9yr2ofdd" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/80</unitid>
+         <unittitle>Brest</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>27 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+       <c id="c-3jx0nrqh9--1cj064jdt7uii" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/81</unitid>
+         <unittitle>Briançon</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>5 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+       <c id="c-3kmd490gy-jupt0relmt9u" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/82</unitid>
+         <unittitle>Cherbourg</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>16 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+       <c id="c-3let54s3a-1xzthb6idipyr" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/83</unitid>
+         <unittitle>Grenoble</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>7 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+       <c id="c-3m4po0p12-15ga578atz9w5" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/84</unitid>
+         <unittitle>Luxembourg</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>8 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+       <c id="c-3mtab5fd9--760k0n74pgup" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/85</unitid>
+         <unittitle>Neuf-Brisach</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>3 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+       <c id="c-3nveiw2x7-aa818vt2xx5n" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/86</unitid>
+         <unittitle>Saint-Omer</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>8 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+       <c id="c-3od43i1rp-4g1tfvs6laud" level="file">
+       <did>
+        <unitid type="cote-de-consultation">20170434/87</unitid>
+         <unittitle>Strasbourg</unittitle>
+         <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+         <physdesc>
+         <extent/>
+         </physdesc>
+        </did>
+        <scopecontent>
+         <p>10 photographies couleurs.</p>
+        </scopecontent>
+       </c>
+      </c>
+     </c>
+     <c id="c-3q160ighl-1gf2kxr0njbrj" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/88</unitid>
+       <unittitle>Photographies de l'établissement de communication et de production audiovisuelle de la Défense (ECPAD)</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2011-12-31">2011</unitdate>
+       <physdesc>
+       <extent/>
+       </physdesc>
+      </did>
+      <userestrict>
+       <p>Copyright : Jean-François d'Arcangues de l'ECPAD.</p>
+      </userestrict>
+      <scopecontent>
+       <p>45 photographies couleurs des restaurations des plans et préparation de l'exposition.</p>
+      </scopecontent>
+     </c>
+    </c>
+    <c id="c-9j0qex1rd-15kormy89blzl" level="subgrp">
+    <did>
+     <unitid type="identifiant">20170434/89-20170434/95</unitid>
+      <unittitle>Projets d'exposition</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+     </did>
+     <c id="c-4097wdcez--1jjj1qvdubgmn" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/89</unitid>
+       <unittitle>« De l'outil à l'histoire » présentation commune dans les neufs musées du groupement d'intérêt public</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Liste des oeuvres, coordonnées des musées.</p>
+      </scopecontent>
+     </c>
+     <c id="c-41txl379j-95xua6b784j2" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/90</unitid>
+       <unittitle>« Cinquantième anniversaire de la signature du Traité de l'Elysée »</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Comptes rendus de réunions, liste des documents audiovisuels, notes.</p>
+      </scopecontent>
+     </c>
+     <c id="c-46ji64tpg--o5owl5ydldt7" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/91</unitid>
+       <unittitle>« Ferdinand de Lesseps, de Suez à Panama. Utopie, entreprise et mythe »</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Comptes rendus de réunions, tableau et légendes des iconographies, bibliographie, notes, correspondance.</p>
+      </scopecontent>
+     </c>
+     <c id="c-4a6kkyk4t--73q1u65n86ym" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/92</unitid>
+       <unittitle>« De part et d'autre du Rhin, l'univers d'un fleuve européen »</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2011-01-01 / 2012-12-31">2011-2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Compte rendu de réunion, diaporama de présentation, liste des iconographies, notes.</p>
+      </scopecontent>
+     </c>
+     <c id="c-4cp79rmxz--o8zai37m1w18" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/93</unitid>
+       <unittitle>« Le secret de l'Etat »</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Compte rendu de réunion, note.</p>
+      </scopecontent>
+     </c>
+     <c id="c-4dwfj4t7y-11ajk9dpni8l7" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/94</unitid>
+       <unittitle>« La vocation maritime de la France »</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Compte rendu de réunion, note.</p>
+      </scopecontent>
+     </c>
+     <c id="c-4fi0t1rwp-mm6b0axo9ap5" level="file">
+     <did>
+      <unitid type="cote-de-consultation">20170434/95</unitid>
+       <unittitle>« La France, quelle histoire » exposition de préfiguration de la MHF</unittitle>
+       <unitdate calendar="gregorian" era="ce" normal="2012-01-01 / 2012-12-31">2012</unitdate>
+      </did>
+      <scopecontent>
+       <p>Note.</p>
+      </scopecontent>
+     </c>
+    </c>
+   </c>
+  </dsc>
+ </archdesc>
+</ead>
