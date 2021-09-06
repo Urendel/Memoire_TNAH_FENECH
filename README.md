@@ -11,7 +11,7 @@ Les livrables sont une sélection de certains travaux que j'ai pu effectuer dura
 L'ensemble de ces documents sont tels que produits durant le Stage aux Archives nationales, ils ont donc tous été créés sous Windows et ne sont donc principalements utilisables que sur ce système d'exploitation. Les seuls exceptions sont les programmes au format Python (.py) et les fichiers créés à l'origine sous Word et transformés en format PDF pour ce mémoire.
 
 ### Tableau d'analyse des producteurs
-Un tableau d'analyse produit conjointement avec Jeanine GAILLARD des Archives nationales décrivant les producteurs de l'ensemble des instruments de recherche du projet, et qui ont été analysés pour observer leur homogénéité dans le cadre du projet.
+Un tableau d'analyse produit conjointement avec Jeanine GAILLARD des Archives nationales décrivant les producteurs de l'ensemble des instruments de recherche du projet, et qui ont été analysés pour observer leur homogénéité dans le cadre du projet. Certaines informations ont été supprimées du fichier proposé au jury, une colonne proposait des liens menant vers des extractions des biographies des producteurs stockés sur serveur de travail du DAEAA et qui ne seront donc pas disponible pour le jury.
 
 ### Projet synthèse DCSP
 Pour le projet des synthèses de la DCSP se trouve l'analyse des fichiers que j'avais pu effectuer (format texte), l'article écrit pour le numéro d'"En direct" une lettre d'information interne des Archives nationales. Ainsi que le manifeste au format XML du SIP créé dans le cadre de ce projet.
